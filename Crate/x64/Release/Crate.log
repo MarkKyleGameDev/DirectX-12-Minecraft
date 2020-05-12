@@ -1,0 +1,49 @@
+﻿  Camera.cpp
+  d3dApp.cpp
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  CrateApp.cpp
+CrateApp.cpp(1580): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+CrateApp.cpp(1589): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+CrateApp.cpp(1596): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1599): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1623): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+CrateApp.cpp(1627): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1627): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1627): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1639): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1639): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1639): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1655): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1655): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1668): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1668): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1684): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1684): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1697): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1697): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1714): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1714): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1714): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1726): warning C4305: 'argument': truncation from 'double' to 'float'
+CrateApp.cpp(1726): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1726): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(1744): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1767): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1790): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(1873): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CrateApp.cpp(2075): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+CrateApp.cpp(2077): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+CrateApp.cpp(2106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+CrateApp.cpp(2167): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FrameResource.cpp
+  PerlinNoise.cpp
+PerlinNoise.cpp(32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 3012 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Crate.vcxproj -> C:\Users\cgf15hoc\Desktop\Minecraft2.2.3 - flowers\fixed\Minecraft2.1.8 FIXED MEM LEAK\Base code\Crate\x64\Release\Lab 6 - Textured crate.exe
+  Crate.vcxproj -> C:\Users\cgf15hoc\Desktop\Minecraft2.2.3 - flowers\fixed\Minecraft2.1.8 FIXED MEM LEAK\Base code\Crate\x64\Release\Lab 6 - Textured crate.pdb (Full PDB)

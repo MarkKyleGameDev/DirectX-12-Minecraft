@@ -1,0 +1,36 @@
+﻿  CrateApp.cpp
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1580): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1589): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1596): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1599): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1623): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1627): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1627): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1627): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1639): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1639): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1639): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1655): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1655): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1668): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1668): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1684): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1684): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1697): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1697): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1714): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1714): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1714): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1726): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1726): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1726): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1744): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1767): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1790): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(1873): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(2075): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(2077): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(2106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\cgf15hoc\desktop\minecraft2.2.3 - flowers\fixed\minecraft2.1.8 fixed mem leak\base code\crate\crateapp.cpp(2167): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Crate.vcxproj -> C:\Users\cgf15hoc\Desktop\Minecraft2.2.3 - flowers\fixed\Minecraft2.1.8 FIXED MEM LEAK\Base code\Crate\x64\Debug\Lab 6 - Textured crate.exe
+  Crate.vcxproj -> C:\Users\cgf15hoc\Desktop\Minecraft2.2.3 - flowers\fixed\Minecraft2.1.8 FIXED MEM LEAK\Base code\Crate\x64\Debug\Lab 6 - Textured crate.pdb (Full PDB)
